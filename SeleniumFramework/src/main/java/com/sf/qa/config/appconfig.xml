@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application url="https://www.quora.com/" />
+<Environment browser="chrome">
+	<User username="panchal.shraddha214@gmail.com" password="Panchal@11" />
+</Environment>
