@@ -6,6 +6,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import com.sf.qa.base.TestBase;
 
+//This is Test class for Login Page
 public class LoginTests extends TestBase {
 
 	LoginPage loginPage;
